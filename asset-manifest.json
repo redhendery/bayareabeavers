@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.921a82c8.js",
+    "main.css": "/static/css/main.b4148beb.css",
+    "main.js": "/static/js/main.0c4b4a14.js",
     "static/js/787.425deff6.chunk.js": "/static/js/787.425deff6.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/BAB_Phoenix.png": "/static/media/BAB_Phoenix.1824f469cfee0fe7b8b3.png",
+    "static/media/Sri.jpg": "/static/media/Sri.b843fa3caa4f8aa98fcf.jpg",
+    "static/media/Baz.png": "/static/media/Baz.4ab45ea5078bb9b65371.png",
+    "static/media/BridgeLogo.png": "/static/media/BridgeLogo.c236619033a53aa12c7b.png",
+    "static/media/Team.jpg": "/static/media/Team.e191c4c12dddaaf04333.jpg",
+    "static/media/Jarrod.jpg": "/static/media/Jarrod.4eeb16a2d262bd4344df.jpg",
+    "static/media/DC_Wides.jpg": "/static/media/DC_Wides.faef65621ffec7661955.jpg",
+    "static/media/M_Extras.jpg": "/static/media/M_Extras.305edaac6b8aeaec28a8.jpg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.921a82c8.js.map": "/static/js/main.921a82c8.js.map",
+    "main.b4148beb.css.map": "/static/css/main.b4148beb.css.map",
+    "main.0c4b4a14.js.map": "/static/js/main.0c4b4a14.js.map",
     "787.425deff6.chunk.js.map": "/static/js/787.425deff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.921a82c8.js"
+    "static/css/main.b4148beb.css",
+    "static/js/main.0c4b4a14.js"
   ]
 }
