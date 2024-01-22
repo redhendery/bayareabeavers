@@ -1,38 +1,70 @@
-.App {
+h1 {
+  color: #340a03;
   text-align: center;
+  padding-bottom: 15px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p {
+  color: #87361b;
+  text-align: justify;
+  text-decoration: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a {
+ color: #ff7000;
+ text-decoration: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+a:hover {
+  color: #f5d60a;
+}
+
+a.fs-1 {
+  color: #ff7000;
+  padding-left: 15px;
+  text-decoration: none;
+}
+
+a.fs-1:hover {
+  color: #f5d60a;
+}
+
+a.nav-link.fs-2 {
+  color: #ff7000;
+}
+
+a.nav-link.fs-2:hover {
+  color: #f5d60a;
+}
+
+footer {
+  color: #340a03;
+  background-color: #bc916a;
+}
+
+.main {
   display: flex;
+  min-height: 100vh;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.section {
+  flex: 1;
+  color: #87361b;
+  padding-top: 20px;
+  background-color: #eadad1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar {
+  color: #ff7000;
+  background-color: #340a03;
+}
+
+.card p {
+  color: #340a03;
+}
+
+.card-body {
+  text-align: justify;
+  background-color: #eadad1;
 }
